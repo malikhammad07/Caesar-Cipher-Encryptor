@@ -36,25 +36,10 @@ This project was developed to strengthen my understanding of Python programming,
 
 ## 📂 Project Structure
 
-```text
+**text
 Caesar-Cipher-Encryptor/
 │
 ├── main.py
 ├── README.md
 ├── LICENSE
-└── .gitignore
-
----
-
-## 🔐How the Caesar Cipher WorksProject
-
-The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.
-
-For example, if the shift key is 3:
-
-A → D
-B → E
-C → F
-D → G
-
-When the alphabet reaches the end, it starts again from the beginning:
+└── .gitignore**
