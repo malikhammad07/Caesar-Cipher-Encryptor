@@ -77,12 +77,12 @@ Hello World
 ---
 
 ## ▶️ How to Run
-*1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/malikhammad07/Caesar-Cipher-Encryptor.git
 2. Navigate to the Project Directory
-
+cd Caesar-Cipher-Encryptor
 3. Run the Program
-
+python main.py
 💻 Example
 Input
 ===================================
@@ -115,28 +115,29 @@ Encryption and decryption logic
 Modulo operation
 Writing clean and readable Python code
 Basic cryptography concepts
-🚀 Future Improvements
-
+## 🚀 Future Improvements
 Some possible improvements for this project are:
 
-Add input validation for invalid shift values
-Add a menu-driven interface
-Allow users to choose between encryption and decryption
-Support file encryption and decryption
-Save encrypted text to a file
-Create a graphical user interface (GUI)
-Add more cryptographic algorithms
-👨‍💻 Author
+- Add input validation for invalid shift values
+- Add a menu-driven interface
+- Allow users to choose between encryption and decryption
+- Support file encryption and decryption
+- Save encrypted text to a file
+- Create a graphical user interface (GUI)
+- Add more cryptographic algorithms
 
-Malik Hammad
+---
+
+
+## 👨‍💻 Author
+
+ **Malik Hammad**
 
 Cyber Security Student
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 See the LICENSE file for more information.
-
-
 
