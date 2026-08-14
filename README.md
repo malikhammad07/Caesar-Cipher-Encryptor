@@ -44,6 +44,8 @@ Caesar-Cipher-Encryptor/
 ├── LICENSE
 └── .gitignore
 
+---
+
 **🔐How the Caesar Cipher WorksProject**
 
 The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.
