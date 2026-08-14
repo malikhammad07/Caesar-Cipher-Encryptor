@@ -36,13 +36,13 @@ This project was developed to strengthen my understanding of Python programming,
 
 ## 📂 Project Structure
 
-**text
--Caesar-Cipher-Encryptor/
--│
--├── main.py
--├── README.md
--├── LICENSE
--└── .gitignore**
+text
+- Caesar-Cipher-Encryptor/
+- │
+- ├── main.py
+- ├── README.md
+- ├── LICENSE
+- └── .gitignore
 
 ---
 
@@ -52,16 +52,16 @@ This project was developed to strengthen my understanding of Python programming,
 
 For example, if the shift key is 3:
 
-**-A → D
--B → E
--C → F
--D → G**
+- A → D
+- B → E
+- C → F
+- D → G
 
 When the alphabet reaches the end, it starts again from the beginning:
 
-**-X → A
--Y → B
-- Z → C**
+- X → A
+- Y → B
+- Z → C
 
 For decryption, the same shift key is used in the opposite direction
 
@@ -111,6 +111,21 @@ Input
 
 Enter the text to encrypt: Hello World
 Enter the shift key (1-25): 3
+
+**OUTPUT**
+
+===================================
+Original Text : Hello World
+Shift Key     : 3
+
+===================================
+
+Encrypted Text : Khoor Zruog
+Decrypted Text : Hello World
+
+===================================
+
+Thank you for using Caesar Cipher Encryptor!
 
 Thank you for using Caesar Cipher Encryptor!
 
