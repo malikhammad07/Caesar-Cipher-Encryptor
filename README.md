@@ -61,7 +61,7 @@ When the alphabet reaches the end, it starts again from the beginning:
 
 **-X → A
 -Y → B
--Z → C**
+- Z → C**
 
 For decryption, the same shift key is used in the opposite direction
 
