@@ -108,26 +108,20 @@ Input
 ===================================
      Caesar Cipher Encryptor
 ===================================
-
 Enter the text to encrypt: Hello World
 Enter the shift key (1-25): 3
 
 **OUTPUT**
-
 ===================================
 Original Text : Hello World
 Shift Key     : 3
-
 ===================================
-
 Encrypted Text : Khoor Zruog
 Decrypted Text : Hello World
-
 ===================================
 
 Thank you for using Caesar Cipher Encryptor!
 
-Thank you for using Caesar Cipher Encryptor!
 
 ---
 
