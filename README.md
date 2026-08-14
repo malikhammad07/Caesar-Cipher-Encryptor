@@ -1,65 +1,50 @@
-# Caesar-Cipher-Encryptor
+# 🔐 Caesar Cipher Encryptor & Decryptor
 
-A simple Python program that encrypts and decrypts text using the Caesar Cipher technique.
+## 📌 Overview
 
-## Features
+This project is a simple Caesar Cipher program written in Python. It allows users to encrypt and decrypt text using the Caesar Cipher algorithm.
 
-- Encrypt text using a shift key
-- Decrypt encrypted text
-- Supports uppercase and lowercase letters
-- Keeps spaces, numbers, and symbols unchanged
-- Uses a shift key from 1 to 25
+The program preserves uppercase and lowercase letters while leaving spaces, numbers, and special characters unchanged.
 
-## Requirements
+This project was developed to strengthen my understanding of Python programming, string manipulation, loops, functions, and basic cryptography concepts.
 
-- Python 3.x
+---
 
-## How to Run
+## ✨ Features
 
-Open the terminal in the project folder and run:
+- 🔒 Encrypts plaintext using the Caesar Cipher algorithm
+- 🔓 Decrypts encrypted text back to its original form
+- 🔠 Preserves uppercase and lowercase letters
+- 🔢 Keeps numbers unchanged
+- ✍️ Keeps spaces and special characters unchanged
+- 🔄 Automatically handles shift values greater than 26
+- 🐍 Written in simple and beginner-friendly Python
+- 📚 Demonstrates basic cryptography concepts
 
-```bash
-python main.py
+---
 
-How It Works
+## 🛠️ Technologies Used
 
-The Caesar Cipher shifts each letter by a fixed number of positions in the alphabet.
-A → D
-B → E
-C → F
-For decryption, the same shift key is used in the opposite direction.
-Example
-===================================
-     Caesar Cipher Encryptor
-===================================
+- **Python 3**
+- **ASCII Character Conversion**
+- **String Manipulation**
+- **Functions**
+- **Loops**
+- **Conditional Statements**
 
-Enter the text to encrypt: Hello World
-Enter the shift key (1-25): 3
+---
 
-===================================
-Original Text : Hello World
-Shift Key     : 3
-===================================
-Encrypted Text : Khoor Zruog
-Decrypted Text : Hello World
-===================================
-Thank you for using Caesar Cipher Encryptor!
-For example, with a shift key of 3:
+## 📂 Project Structure
 
-Project Structure
+```text
 Caesar-Cipher-Encryptor/
+│
 ├── main.py
 ├── README.md
 ├── LICENSE
 └── .gitignore
-License
+## 🔐How the Caesar Cipher Works
 
-This project is licensed under the MIT License.
-### README save karne ke baad
+The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.
 
-Terminal mein:
-
-```powershell
-git add README.md
-git commit -m "Update README"
-git push
+For example, if the shift key is 3:
