@@ -43,3 +43,100 @@ Caesar-Cipher-Encryptor/
 ├── README.md
 ├── LICENSE
 └── .gitignore**
+
+---
+
+## 🔐 How the Caesar Cipher Works
+
+The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.
+
+For example, if the shift key is 3:
+
+A → D
+B → E
+C → F
+D → G
+When the alphabet reaches the end, it starts again from the beginning:
+X → A
+Y → B
+Z → C
+For decryption, the same shift key is used in the opposite direction
+### EXAMPLE
+Original Text:
+Hello World
+
+Shift Key:
+3
+
+Encrypted Text:
+Khoor Zruog
+
+Decrypted Text:
+Hello World
+
+---
+
+## ▶️ How to Run
+*1. Clone the Repository
+git clone https://github.com/malikhammad07/Caesar-Cipher-Encryptor.git
+2. Navigate to the Project Directory
+
+3. Run the Program
+
+💻 Example
+Input
+===================================
+     Caesar Cipher Encryptor
+===================================
+
+Enter the text to encrypt: Hello World
+Enter the shift key (1-25): 3
+Output
+===================================
+Original Text : Hello World
+Shift Key     : 3
+===================================
+Encrypted Text : Khoor Zruog
+Decrypted Text : Hello World
+===================================
+Thank you for using Caesar Cipher Encryptor!
+📚 Learning Objectives
+
+This project helped me practice and understand:
+
+Python functions
+for loops
+Conditional statements
+String manipulation
+User input
+ASCII character conversion
+ord() and chr() functions
+Encryption and decryption logic
+Modulo operation
+Writing clean and readable Python code
+Basic cryptography concepts
+🚀 Future Improvements
+
+Some possible improvements for this project are:
+
+Add input validation for invalid shift values
+Add a menu-driven interface
+Allow users to choose between encryption and decryption
+Support file encryption and decryption
+Save encrypted text to a file
+Create a graphical user interface (GUI)
+Add more cryptographic algorithms
+👨‍💻 Author
+
+Malik Hammad
+
+Cyber Security Student
+
+📄 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for more information.
+
+
+
