@@ -48,18 +48,18 @@ Caesar-Cipher-Encryptor/
 
 ## 🔐 How the Caesar Cipher Works
 
-The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.
+**The Caesar Cipher is a classical encryption technique in which each alphabetic character is shifted by a fixed number of positions in the alphabet.**
 
 For example, if the shift key is 3:
 
-A → D
+**A → D
 B → E
 C → F
-D → G
+D → G**
 When the alphabet reaches the end, it starts again from the beginning:
-X → A
+**X → A
 Y → B
-Z → C
+Z → C**
 For decryption, the same shift key is used in the opposite direction
 ### EXAMPLE
 Original Text:
