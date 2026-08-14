@@ -77,8 +77,9 @@ Hello World
 ---
 
 ## ▶️ How to Run
-1. Clone the Repository
-git clone https://github.com/malikhammad07/Caesar-Cipher-Encryptor.git
+
+*1. Clone the Repository
+git clone https://github.com/malikhammad07/Caesar-Cipher-Encryptor.gi
 2. Navigate to the Project Directory
 cd Caesar-Cipher-Encryptor
 3. Run the Program
@@ -100,21 +101,24 @@ Encrypted Text : Khoor Zruog
 Decrypted Text : Hello World
 ===================================
 Thank you for using Caesar Cipher Encryptor!
-📚 Learning Objectives
 
+---
+
+## 📚 Learning Objectives
 This project helped me practice and understand:
 
-Python functions
-for loops
-Conditional statements
-String manipulation
-User input
-ASCII character conversion
-ord() and chr() functions
-Encryption and decryption logic
-Modulo operation
-Writing clean and readable Python code
-Basic cryptography concepts
+- Python functions
+- for loops
+- Conditional statements
+- String manipulation
+- User input
+- ASCII character conversion
+- ord() and chr() functions
+- Encryption and decryption logic
+- Modulo operation
+- Writing clean and readable Python code
+- Basic cryptography concepts
+
 ## 🚀 Future Improvements
 Some possible improvements for this project are:
 
