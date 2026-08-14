@@ -56,34 +56,52 @@ For example, if the shift key is 3:
 B → E
 C → F
 D → G**
+
 When the alphabet reaches the end, it starts again from the beginning:
+
 **X → A
 Y → B
 Z → C**
+
 For decryption, the same shift key is used in the opposite direction
+
 ### EXAMPLE
-Original Text:
+- Original Text:
 Hello World
 
-Shift Key:
+- Shift Key:
 3
 
-Encrypted Text:
+- Encrypted Text:
 Khoor Zruog
 
-Decrypted Text:
+- Decrypted Text:
 Hello World
 
 ---
 
 ## ▶️ How to Run
 
-*1. Clone the Repository
-git clone https://github.com/malikhammad07/Caesar-Cipher-Encryptor.gi
-2. Navigate to the Project Directory
+1. Clone the repository.
+
+```bash
+git clone https://github.com/a2481240-code/Caesar-Cipher-Encryptor.git
+```
+
+2. Navigate to the project directory.
+
+```bash
 cd Caesar-Cipher-Encryptor
-3. Run the Program
-python main.py
+```
+
+3. Run the program.
+
+```bash
+python caesar_cipher.py
+```
+
+---
+
 💻 Example
 Input
 ===================================
